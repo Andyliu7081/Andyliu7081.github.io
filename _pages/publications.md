@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance Under Review** **Haotian Liu***, Fangzhou Lin*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang *Under Review*
