@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Haotian (Sean) Liu / Personal Website"
 title_separator          : "-"
-name                     : &name "Haotian Liu"
+# name                     : &name "Haotian Liu"
 description              : &description "personal description"
 url                      : https://Andyliu7081.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
