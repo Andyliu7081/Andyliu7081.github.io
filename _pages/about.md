@@ -57,7 +57,7 @@ My long-term research vision is to build automation systems that can be self-ada
       <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> at San Diego, CA, USA Oral Presentation <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
     </td>
     <td>
-      <img src="images/VisionFDM_RoboSoft_new.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
+      <img src="images/roboSoft_2024.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
