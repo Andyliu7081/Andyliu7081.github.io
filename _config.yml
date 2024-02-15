@@ -17,7 +17,7 @@ repository               : "Andyliu7081.github.io"
 
 # Site Author
 author:
-  name             : "Haotian Liu"
+  # name             : "Haotian Liu"
   avatar           : "me2.0_copy.jpeg"
   # bio              : "Undergraduate at WPI (Worcester Polytechnic Institute)"
   pronouns         : # example: "she/her"
