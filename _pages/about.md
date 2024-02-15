@@ -1,49 +1,67 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# About Me
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: 3D Point Cloud Completion, FDM Printing Soft Robotics, Robotic Task Motion Planning, and Multi-modal Sensing Medical Automation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/) and Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV_Feb14.pdf).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# News
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am actively exploring opportunities for a visiting researcher position in the summer of 2024, as well as a Ph.D. student position for the fall of 2025. Feel free to contact me via email (hliu8 AT wpi DOT edu) or LinkedIn.
+- Our paper: *Vision-based FDM Printing for Fabricating Airtight Soft Actuators* has been accepted by **IEEE RoboSoft 2024** as an **Oral Presentation**!
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Research Vision
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+My long-term research vision is to build automation systems that can be self-adaptive to new environments based on trustworthy data input from perception and learn concepts from logistics reasoning. These systems will assist humans to accomplish challenging tasks in the physical world.
 
-**Markdown generator**
+# Selected Publications
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- 3D Point Cloud
+<table style="border: none">
+  <tr>
+    <td style="border: none">
+      <b style="font-size: 18px;">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
+      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">Under review, paper upon request</p>
+    </td>
+    <td style="border: none">
+      <img src="images/cvpr_new.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
+    </td>
+  </tr>
+</table>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- FDM Printing and Soft Robotics
+<table style = "border: none">
+  <tr>
+    <td style = "border: none">
+      <b style="font-size: 18px;">STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
+      <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i>
+      <p style="font-size: 16px;">Under Review<a href="https://arxiv.org/abs/2312.01130"> Preprint</a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P">Video</a> <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html">Project page</a></p>
+    </td>
+    <td style = "border: none">
+      <img src="images/STREAM_ICRA_new.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
+    </td>
+  </tr>
+</table>
+<table style = "border: none">
+  <tr>
+    <td style = "border: none">
+      <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
+      <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i>
+      <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> at San Diego, CA, USA Oral Presentation <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
+    </td>
+    <td>
+      <img src="images/VisionFDM_RoboSoft_new.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
+    </td>
+  </tr>
+</table>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+# Service
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Reviewer of *Frontiers in Neuroscience, section Decision Neuroscience*
