@@ -17,12 +17,12 @@ repository               : "Andyliu7081.github.io"
 
 # Site Author
 author:
-  # name             : "Your Sidebar Name"
+  name             : "Haotian Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate at WPI (Worcester Polytechnic Institute)"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "Massachusetts, US"
+  # orcid            :
   employer         :
   email            :  
   uri              :
