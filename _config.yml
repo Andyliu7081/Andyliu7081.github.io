@@ -19,7 +19,7 @@ repository               : "Andyliu7081.github.io"
 author:
   name             : "Haotian Liu"
   avatar           : "me2.0_copy.jpeg"
-  bio              : "Undergraduate at WPI (Worcester Polytechnic Institute)"
+  # bio              : "Undergraduate at WPI (Worcester Polytechnic Institute)"
   pronouns         : # example: "she/her"
   location         : "Massachusetts, US"
   # orcid            :
