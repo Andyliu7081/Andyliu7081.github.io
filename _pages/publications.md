@@ -14,3 +14,6 @@ author_profile: true
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** Under Review
 *Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz* [Pdf](https://arxiv.org/abs/2312.01130)
+
+**Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data** arXiv
+***Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li* [Pdf](https://arxiv.org/abs/1910.02544)
