@@ -27,7 +27,7 @@ My long-term research vision is to build automation systems that can be self-ada
 <table style="border: none">
   <tr>
     <td style="border: none">
-      <b style="font-size: 18px;">A Novel Set-to-Set Matching Similarity with Extreme Value Distribution Prior</b><br>
+      <b style="font-size: 18px;">SIMEX: Deep Similarity Learning for Set-to-Set Matching with Extreme Value Distribution Prior</b><br>
       <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Lehong Wang, Kazunori Yamada, Vijaya Kolachalama, Haichong Zhang, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">Under review, paper upon request</p>
     </td>
     <td style="border: none">
