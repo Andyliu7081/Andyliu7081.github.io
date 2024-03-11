@@ -31,7 +31,7 @@ My long-term research vision is to build automation systems that can be self-ada
       <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Lehong Wang, Kazunori Yamada, Vijaya B. Kolachalama, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">Under review, paper upon request</p>
     </td>
     <td style="border: none">
-      <img src="images/cvpr_new.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
+      <img src="images/eccv_fig1.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
