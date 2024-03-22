@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Cat Photos"
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
