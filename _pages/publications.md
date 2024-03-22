@@ -9,7 +9,7 @@ author_profile: true
 **SIMEX: Deep Similarity Learning for Set-to-Set Matching with Extreme Value Distribution Prior** Under Review, Paper upon request
 ***Haotian Liu\***, Fangzhou Lin\*, Lehong Wang, Kazunori Yamada, Vijaya B. Kolachalama, and Ziming Zhang*
 
-**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance** Under Review
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance** Under Review, [PDF](https://Andyliu7081.github.io/files/Loss_Distillation_via_Gradient_Matching.pdf)
 ***Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang*
 
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators** IEEE RoboSoft 2024 at San Diego, CA, USA (**Oral Presentation**)
