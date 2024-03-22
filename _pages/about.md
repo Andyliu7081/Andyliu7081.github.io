@@ -19,7 +19,7 @@ I am actively exploring opportunities for a visiting researcher position in the 
 
 # Research Vision
 
-My long-term research vision is to build automation systems that can be self-adaptive to new environments based on trustworthy data input from perception and learn concepts from logistics reasoning. These systems will assist humans to accomplish challenging tasks in the physical world.
+My long-term research vision is to build automation systems that can be self-adaptive to new environments based on trustworthy data input from perception and learn motion strategies from logistics reasoning. These systems will assist humans to accomplish challenging tasks in the physical world.
 
 # Selected Publications
 
