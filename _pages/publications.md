@@ -13,7 +13,7 @@ author_profile: true
 ***Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang*
 
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators** IEEE RoboSoft 2024 at San Diego, CA, USA (**Oral Presentation**)
-*Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz* [PDF](https://arxiv.org/abs/2312.01135)
+*Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz* [Pre Print](https://arxiv.org/abs/2312.01135)
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** Under Review
 *Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz* [PDF](https://arxiv.org/abs/2312.01130)
