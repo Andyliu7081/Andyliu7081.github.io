@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: Deep Learning Model Optimization for 3D Point Cloud Tasks, Robotic Task Motion Planning with Scene Understanding, FDM Printing Soft Robotics, and Medical Assistive Devices. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/) and Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV.pdf).
+I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: Deep Learning Optimization for 3D Vision, Robotic Task and Motion Planning with Scene Understanding, FDM Printing for Soft Robotics, and Healthcare Automation based on Motion Estimation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/) and Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV.pdf).
 
 # News
 
@@ -23,7 +23,7 @@ My long-term research vision is to build automation systems that can be self-ada
 
 # Selected Publications
 
-- 3D Vision and Machine Learning
+- Deep Learning Optimization for 3D Vision
 <table style="border: none">
   <tr>
     <td style="border: none">
@@ -48,7 +48,7 @@ My long-term research vision is to build automation systems that can be self-ada
   </tr>
 </table>
 
-- FDM Printing and Soft Robotics
+- FDM Printing for Soft Robotics
 <table style = "border: none">
   <tr>
     <td style = "border: none">
