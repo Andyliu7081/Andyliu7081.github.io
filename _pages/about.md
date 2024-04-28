@@ -14,7 +14,8 @@ I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](htt
 
 # News
 
-I am actively exploring opportunities for a visiting researcher position in the summer of 2024, as well as a Ph.D. student position for the fall of 2025. Feel free to contact me via email (hliu8 AT wpi DOT edu) or [LinkedIn](https://www.linkedin.com/in/haotian-sean-liu-414178251/).
+I am actively exploring opportunities for a Ph.D. student position for the fall of 2025. Feel free to contact me via email (hliu8 AT wpi DOT edu) or [LinkedIn](https://www.linkedin.com/in/haotian-sean-liu-414178251/).
+- This summer, I will join [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) as a visiting research student to work on cutting-edge robotic projects on manipulations and 3D vision. Our projects will closely cooperate with [Bostn Dynamic AI](https://theaiinstitute.com/about) to address critical challenges in robotics.
 - Our paper: *Vision-based FDM Printing for Fabricating Airtight Soft Actuators* has been accepted by **IEEE RoboSoft 2024** as an **Oral Presentation**!
 
 # Research Vision
