@@ -28,8 +28,8 @@ My long-term research vision is to build automation systems that can be self-ada
 <table style="border: none">
   <tr>
     <td style="border: none">
-      <b style="font-size: 18px;">Deep Probabilistic Similarity Learning for Set-to-Set Matching with Extreme Value Distribution Prior</b><br>
-      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Lehong Wang, Kazunori Yamada, Vijaya B. Kolachalama, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">Under review, paper upon request</p>
+      <b style="font-size: 18px;">Set-to-Set Similarity Learning via Nearest Neighbor Matching with Gumbel Prior: A Probability Measure</b><br>
+      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Haichong Zhang, Kazunori Yamada, Vijaya B Kolachalama, Venkatesh Saligrama, and Ziming Zhang(* co-first author)</i> <p style="font-size: 16px;">Under review, paper upon request</p>
     </td>
     <td style="border: none">
       <img src="images/eccv_fig1.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
