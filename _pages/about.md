@@ -29,7 +29,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style="border: none">
       <b style="font-size: 18px;">Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies</b><br>
-      <i style="font-size: 16px;">Haojie Huang, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, <strong>Haotian Liu</strong>, Mingxi Jia, Robert Platt, and Robin Walters</i> <p style="font-size: 16px;">Under review, <a href="https://arxiv.org/abs/2406.11740">Preprint</a> <a href="https://haojhuang.github.io/imagine_page/">Project Page</a></p>
+      <i style="font-size: 16px;">Haojie Huang, Karl Schmeckpeper*, Dian Wang*, Ondrej Biza*, Yaoyao Qian**, <strong>Haotian Liu**</strong>, Mingxi Jia**, Robert Platt, and Robin Walters (*, ** Equal Contribution)</i> <p style="font-size: 16px;">Under review, <a href="https://arxiv.org/abs/2406.11740">Preprint</a> <a href="https://haojhuang.github.io/imagine_page/">Project Page</a></p>
     </td>
     <td style="border: none">
       <img src="images/grasp_flower.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
