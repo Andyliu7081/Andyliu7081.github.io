@@ -17,6 +17,7 @@ I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](htt
 I am actively exploring opportunities for a Ph.D. student position for the fall of 2025. Feel free to contact me via email (hliu8 AT wpi DOT edu) or [LinkedIn](https://www.linkedin.com/in/haotian-sean-liu-414178251/).
 - This summer, I will join [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at [Northeastern University](https://www.northeastern.edu/) as a visiting research student to work on cutting-edge robotic projects focusing on manipulations and 3D vision. Our projects will closely cooperate with [Bostn Dynamic AI](https://theaiinstitute.com/about) to address critical challenges in robotics.
 - Our paper: *Vision-based FDM Printing for Fabricating Airtight Soft Actuators* has been accepted by **IEEE RoboSoft 2024** as an **Oral Presentation**!
+- Our paper: *Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance* has been accepted by **IEEE/RSJ IROS 2024** as an **Oral Presentation**!
 
 # Research Vision
 
@@ -54,7 +55,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style="border: none">
       <b style="font-size: 18px;">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
-      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Haoying Zhou*, Songlin Hou*, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, Haichong K. Zhang, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">IEEE/RSJ <a href="https://iros2024-abudhabi.org/">IROS 2024</a> in Abu Dhabi, UAE Oral Presentation, <a href="https://Andyliu7081.github.io/files/Loss_Distillation_via_Gradient_Matching.pdf">PDF</a></p>
+      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Haoying Zhou*, Songlin Hou*, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, Haichong K. Zhang, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">IEEE/RSJ <a href="https://iros2024-abudhabi.org/">IROS 2024</a> in Abu Dhabi, UAE <strong>Oral Presentation</strong>, <a href="https://Andyliu7081.github.io/files/Loss_Distillation_via_Gradient_Matching.pdf">PDF</a></p>
     </td>
     <td style="border: none">
       <img src="images/cvpr_new.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
@@ -68,7 +69,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
       <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i>
-      <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> in San Diego, CA, USA Oral Presentation <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
+      <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> in San Diego, CA, USA <strong>Oral Presentation</strong>, <a href="https://arxiv.org/abs/2312.01135">PDF</a>, <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
     </td>
     <td>
       <img src="images/roboSoft_2024.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
@@ -81,7 +82,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
       <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i>
-      <p style="font-size: 16px;">Under Review<a href="https://arxiv.org/abs/2312.01130"> Preprint</a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P">Video</a> <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html">Project page</a></p>
+      <p style="font-size: 16px;">Under Review<a href="https://arxiv.org/abs/2312.01130">, PDF</a>, <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P">Video</a>, <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html">Project page</a></p>
     </td>
     <td style = "border: none">
       <img src="images/STREAM_ICRA_new.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
