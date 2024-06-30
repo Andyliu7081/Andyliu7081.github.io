@@ -54,7 +54,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style="border: none">
       <b style="font-size: 18px;">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
-      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Haoying Zhou*, Songlin Hou*, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, Haichong K. Zhang, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">Under review, <a href="https://Andyliu7081.github.io/files/Loss_Distillation_via_Gradient_Matching.pdf">PDF</a></p>
+      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Haoying Zhou*, Songlin Hou*, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, Haichong K. Zhang, and Ziming Zhang (* co-first author)</i> <p style="font-size: 16px;">IEEE/RSJ <a href="https://iros2024-abudhabi.org/">IROS 2024</a> in Abu Dhabi, UAE Oral Presentation, <a href="https://Andyliu7081.github.io/files/Loss_Distillation_via_Gradient_Matching.pdf">PDF</a></p>
     </td>
     <td style="border: none">
       <img src="images/cvpr_new.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
@@ -68,7 +68,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
       <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i>
-      <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> at San Diego, CA, USA Oral Presentation <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
+      <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> in San Diego, CA, USA Oral Presentation <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
     </td>
     <td>
       <img src="images/roboSoft_2024.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
